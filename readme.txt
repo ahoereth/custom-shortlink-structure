@@ -12,7 +12,7 @@ Requires at least: 3.1
 Tested up to: 3.6
 Stable tag: 1.0
 
-Change the default WordPress shortlink structure dynamically using your permalink settings.
+Change the default WordPress shortlink structure dynamically just like you can change your permalinks.
 
 == Description ==
 
